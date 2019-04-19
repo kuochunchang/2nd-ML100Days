@@ -1,4 +1,5 @@
 homework/*.py
+example/*.py
 probe/
 data/
 vsc-jupter/

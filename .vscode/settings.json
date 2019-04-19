@@ -1,4 +1,5 @@
 {
     "python.pythonPath": "/home/guojun/anaconda3/bin/python",
-    "DataScience.changeDirOnImportExport": false
+    "DataScience.changeDirOnImportExport": false,
+    "python.linting.pylintEnabled": true
 }
